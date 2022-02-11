@@ -12,6 +12,7 @@ object Dependencies {
     "com.typesafe.akka"      %% "akka-http"   % Versions.akkaHttp,
     "com.typesafe.akka"      %% "akka-actor"  % Versions.akka,
     "com.typesafe.akka"      %% "akka-stream" % Versions.akka,
+    "com.typesafe.akka"      %% "akka-http-spray-json" % Versions.akkaHttp
 
   )
 
